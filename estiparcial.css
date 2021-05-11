@@ -1,0 +1,80 @@
+
+.azul{
+	 position: absolute;
+	 left: 100px;
+	 height: 1500px;
+	 width: 1150px;
+	 background: #8AD6F7;
+	 border: solid 5px black;
+}
+
+.uno{
+	position: absolute;
+	top: 13px;
+	left: 270px;
+	height: 100px;
+	width: 600px;
+	background: #FFA3F6;
+	border: solid 5px black;
+}
+
+.dos{
+	position: absolute;
+	top: 150px;
+	left: 40px;
+	height: 1190px;
+	width: 500px;
+	background:#FFA3F6;
+	border: solid 5px black; 
+}
+
+.tres{
+	position: absolute;
+	top: 150px;
+	right: 40px;
+	height: 1190px;
+	width: 500px;
+	background:#FFA3F6;
+	border: solid 5px black; 
+}
+
+.cuatro{
+	position: absolute;
+	top: 180px;
+	left:80px;
+	height: 70px;
+	width: 420px;
+	background:#FFA3F6;
+	border: solid 5px black;
+}
+
+.cinco{
+	position: absolute;
+	top: 280px;
+	left: 160px;
+	height: 1010px;
+	width: 280px;
+	background: url('algoh.png');
+	border: solid 5px black;
+}
+
+.seis{
+	position: absolute;
+	top: 180px;
+	right:80px;
+	height: 70px;
+	width: 420px;
+	background:#FFA3F6;
+	border: solid 5px black;
+}
+
+.siete{
+	position: absolute;
+	top: 280px;
+	right:60px;
+	height: 700px;
+	width: 455px;
+	background: url('algo.png');
+	background-size: cover;
+	border: solid 5px black;
+}
